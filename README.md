@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=Waving&text=Hi%20I'm%20Yewon%20😋&color=gradient&customColorList=0,2,3&animation=twinkling)
+  ![header](https://capsule-render.vercel.app/api?type=Waving&text=Hi%20I'm%20Yewon%20ღ'ᴗ'ღ&color=gradient&customColorList=0,2,3&animation=twinkling)
   
   📨 Social 📨
   <!-- <img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white"> -->
