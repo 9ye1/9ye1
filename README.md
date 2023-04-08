@@ -1,6 +1,9 @@
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=Waving&text=Hi%20I'm%20Yewon%20ღ'ᴗ'ღ&color=gradient&customColorList=0,2,3&animation=twinkling)
+  <!--헤더-->
+  ![header](https://capsule-render.vercel.app/api?type=Waving&text=Hi%20I'm%20Yewon%20'ᴗ'&color=gradient&height=250&customColorList=0,2,3&animation=twinkling)
+  
+  will be a creative developer 🐥 <br/><br/>
   
   📨 Social 📨
   <!-- <img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white"> -->
@@ -8,22 +11,52 @@
     <img src="https://img.shields.io/badge/jastu8646@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"&link=jastu8646@gmail.com"
     style="border-radius:50%">
   </a>
-  <br/>
+    <img src="https://img.shields.io/badge/jastu111@naver.com-03C75A?style=for-the-badge&logo=Naver&logoColor=white"&link=jastu111@naver.com"
+    style="border-radius:50%">
+    
+    
+   <br/><br/>
+   💿 Dev Blog 💿
+
   <a href="https://guun-oni.tistory.com/">
     <img 
-        src="http://img.shields.io/badge/T%20story-655ced?style=flat&logo=Tistory&link=https://guun-oni.tistory.com/"
+        src="http://img.shields.io/badge/T%20story-FFFFFF?style=for-the-badge&logo=Tistory&link=https://guun-oni.tistory.com/&logoColor=black"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+  </a>
+  <br/>
+  
+  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=guun-oni&postId=64&theme=default)](https://guun-oni.tistory.com/)
 
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+* * *
+  📚 Tech Stack 📚<br/><br/>
+  💡 Main 💡<br/><br/>
+  <img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javaScript&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=143059"/>
+  <img src="https://img.shields.io/badge/Figma-f24e1e?style=for-the-badge&logo=Figma&logoColor=white"/>
   
   
+  🖊 Used At least Once 🖊<br/><br/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon&logoColor=white">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
+  
+  
+  
+  <!--백준--><br/><br/>
+  [![Solved.ac
+jastu111](http://mazassumnida.wtf/api/v2/generate_badge?boj=jastu111)](https://solved.ac/jastu111)
+
+  <!--깃허브-->  
   ![Yewon's github stats](https://github-readme-stats.vercel.app/api?username=9ye1&show_icons=true&theme=radical) 
+  
+
 </div>
+
 
 
 <!--
