@@ -25,33 +25,52 @@
   </a>
   <br/>
   
-  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=guun-oni&postId=64&theme=default)](https://guun-oni.tistory.com/)
+  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=guun-oni&postId=68&theme=default)](https://guun-oni.tistory.com/)
 
 * * *
   📚 Tech Stack 📚<br/><br/>
-  💡 Main 💡<br/><br/>
-  <img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black">
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javaScript&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/>
+  <br/>
+  🎨 Design 🎨
+  
   <img src="https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=143059"/>
   <img src="https://img.shields.io/badge/Figma-f24e1e?style=for-the-badge&logo=Figma&logoColor=white"/>
+   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <br/><br/>
   
+  <br/>
+  🔤 Language 🔤
+  <br/>
   
-  🖊 Used At least Once 🖊<br/><br/>
+  <br/>✨<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">✨<br/><br/>
+  <img src="https://img.shields.io/badge/C++-00599c?style=for-the-badge&logo=C++&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javaScript&logoColor=white"> 
+  
+  <br/>
+  💡 Main 💡<br/><br/>
+  <img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/>
+  
+  <br/><br/>
+  📌 Used At least Once 📌<br/><br/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon&logoColor=white">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
+  <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=for-the-badge&logo=Unreal Engine&logoColor=white"><br/>
+  <img src="https://img.shields.io/badge/Stencyl-8E1C04?style=for-the-badge&logo=Stencyl&logoColor=white">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
   
-  
-  
+  * * *
+  🐠 BOJ Stats 🐠
   <!--백준--><br/><br/>
   [![Solved.ac
 jastu111](http://mazassumnida.wtf/api/v2/generate_badge?boj=jastu111)](https://solved.ac/jastu111)
 
-  <!--깃허브-->  
+  * * * 
+ 🐾 My Github Stats 🐾
+  <!--깃허브--><br/><br/>
   ![Yewon's github stats](https://github-readme-stats.vercel.app/api?username=9ye1&show_icons=true&theme=radical) 
   
 
