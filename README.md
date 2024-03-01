@@ -38,23 +38,18 @@
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <br/><br/>
   
-  <br/>
-  🔤 Language 🔤
-  <br/>
+  💡 available 💡<br/><br/>
   
-  <br/>✨<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">✨<br/><br/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599c?style=for-the-badge&logo=C++&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javaScript&logoColor=white"> 
-  
-  <br/>
-  💡 Main 💡<br/><br/>
   <img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/>
   
   <br/><br/>
-  📌 Used At least Once 📌<br/><br/>
+  📌 understandable 📌<br/><br/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon&logoColor=white">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
