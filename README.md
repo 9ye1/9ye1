@@ -42,7 +42,9 @@
   <img src="https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=143059"/>
   <img src="https://img.shields.io/badge/Figma-f24e1e?style=for-the-badge&logo=Figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black">
-  <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=black">
+  <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
+  
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=black">
 
   <br/><br/>
 
@@ -50,18 +52,20 @@
   <img src="https://img.shields.io/badge/C++-00599c?style=for-the-badge&logo=C++&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
   
   🙄사용해봤어요 <br/><br/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon&logoColor=white">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white">
   
   <br/><br/>
   📌 understandable 📌<br/><br/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon&logoColor=white">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
   <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=for-the-badge&logo=Unreal Engine&logoColor=white"><br/>
-  <img src="https://img.shields.io/badge/Stencyl-8E1C04?style=for-the-badge&logo=Stencyl&logoColor=white">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
+ 
   
   * * *
   🐠 BOJ Stats 🐠
