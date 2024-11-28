@@ -30,22 +30,22 @@
 * * *
   📚 Tech Stack 📚<br/><br/>
   <br/>
-  🤗편해요<br/>
+  🤗편해요<br/><br/>
   
   <img src="https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=143059"/>
   <img src="https://img.shields.io/badge/Figma-f24e1e?style=for-the-badge&logo=Figma&logoColor=white"/>
    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css3-#1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>CSS3</title><path d="M1.5 0h21l-1.91 21.563L11.977 24l-8.565-2.438L1.5 0zm17.09 4.413L5.41 4.41l.213 2.622 10.125.002-.255 2.716h-6.64l.24 2.573h6.182l-.366 3.523-2.91.804-2.956-.81-.188-2.11h-2.61l.29 3.855L12 19.288l5.373-1.53L18.59 4.414z"/></svg>
   <br/><br/>
 
-  🙂어느정도 사용할 수 있어요 <br/>
+  🙂어느정도 사용할 수 있어요 <br/><br/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javaScript&logoColor=white"> 
   <img src="https://img.shields.io/badge/C++-00599c?style=for-the-badge&logo=C++&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
   
-  🙄사용해봤어요 <br/>
+  🙄사용해봤어요 <br/><br/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
   <img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/>
