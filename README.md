@@ -64,11 +64,8 @@
   <img src="https://img.shields.io/badge/firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white">
   
   <br/><br/>
-  📌 understandable 📌<br/><br/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-  <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=for-the-badge&logo=Unreal Engine&logoColor=white"><br/>
- 
-  
+
+
   * * *
   🐠 BOJ Stats 🐠
   <!--백준--><br/><br/>
